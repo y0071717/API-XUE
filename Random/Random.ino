@@ -6,7 +6,6 @@ long randomNumber;
 
 void setup() {
  Serial.begin(9600);
-  // put your setup code here, to run once:
 pinMode(LED_1,OUTPUT);
 pinMode(LED_2,OUTPUT);
 pinMode(LED_3,OUTPUT);
